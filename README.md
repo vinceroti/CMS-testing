@@ -1,6 +1,6 @@
-# contentstack
+# CMS-testing
 
-> Testing ContentStack
+> Testing CMS
 
 ## Build Setup
 
